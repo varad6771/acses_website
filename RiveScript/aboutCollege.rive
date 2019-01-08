@@ -1,0 +1,67 @@
++ *
+- I'm not sure I understand you fully.
+- Can you please be specific i can't understand.
+- unable to understand the question.
+
++ (hello|hi|hello bot|hello machine|hello kit)
+- Hi! how can i help you?
+
++ ([*] name [*] college [*] | [*] college [*] name [*] )
+- its Kit's College of Engineering Kolhapur.
+
++ [*] website [*]
+- its www.kitcoek.in
+
++ ([*] history [*] kit [*] | [*] (founders|founded) [*] | [*] kit [*] history [*])
+- Kit was established in May 1983 and was founded by Shivajirao Desai , M M Hudli , B S Kulkarni.
+
++ [*] (establised|formed) [*]
+- Kit was established in May 1983 and was founded by Shivajirao Desai , M M Hudli , B S Kulkarni.
+
++ ([*] about [*] kit [*] | [*] information [*] kit [*] | [*] infrastructure [*])
+- An institute established in May 1983. The college has a campus of 30 acres (120,000 m2) adjacent to National Highway 4
+
++ [*] contact [*] [info] [*]
+- Contact Kit on +91 7769001199 | +91 9168781199 | info@kitcoek.in web : kitcoek.in
+
++ who [*] chairman [*]
+- Chairman of Kit College is Mr.Sachin Menon
+
++ who [*] director [*]
+- Director of Kit College is Dr. V. V. Karjinni
+
++ who [*] principal [*]
+- Director of Kit College is Dr. V. V. Karjinni
+
++ who [*] board of directors [*]
+- Mr.Sachin Menon - Chairman , Mr.Bharat Patil - Vice Chairman , Mr.Sajid Hudli - Secretary and Trustees are Mr.Sunil Kulkarni , Mr.D.C.Joshi , Mr.Deepak Chougule , Mrs.Shilpaja Kangutkar and Col. Pratapsinh Raorane Rtd.
+
++ ([*] governing council [*] | [*] decision making body [*])
+- Please Refer to this link : "http://kitcoek.in/wp-content/uploads/2017/12/BOARD-OF-GOVERNING-COUNCIL.pdf"
+
++ ([*] kit location [*] | [*] location [*] kit [*] | [*] address [*])
+- Kit College of Engineering located at Gokul Shirgaon, Kolhapur, Maharashtra adjacent to NH4 Highway.
+
++ [*] vision [*] [mission] [*]
+- To be the Center of Excellence in Technical Education and preferred choice of Students, Faculty, Industry and Society
+
++ ([*] (recruiters|companies|company) [*] [visits] [*])
+- There are many recruiters visits our college every year count is around 100 among them are John Deere , Tata Tech. , Reliance , KPIT , ADP , D.D. Enterprises , Godrej and many more
+
++ [*] [current] achievements [*]
+- We are pleased to announce that KIT’s College of Engineering, Kolhapur has been ACCREDITED by NBA and now has become autonomous last year , total 200 students are placed this year
+
++ [*] students [*] placed [*]
+- around 200 of them are placed this year.
+
++ [*] students [*] placed [*] last [*]
+- Sorry i dont have any record about last year but this year around 200 of them are placed.
+
++ (who|what) [*] training and placement [*]
+- Training and Placement Officer of Kit College is Dr. R. B. Heddur you can reach him at : drheddur@gmail.com.
+
++ [*] eligibility criteria [*]
+- Eligibility Criteria varies student by student so for information regarding eligibility please contact kit office
+
++ [*] deans [*]
+- Dr. M. S. Chavan – Dean Academics , Mr. S. S. Mane – Dean One KIT , Dr. Shivling M. Pise – Dean R&D

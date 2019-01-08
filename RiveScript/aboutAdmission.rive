@@ -1,0 +1,69 @@
++ [*] intake [*] first year [*]
+- The total first year intake is 700
+
++ [*] first year [*] intake [*]
+- the total first year intake is 700
+
++ [*] intake [*] (second year|third year|final year) [*]
+- -Mechanical - 120
+ ^ -Production - 60
+ ^ -Computer science and engineering - 60
+ ^ -Information Security - 60
+ ^ -electronics - 60
+ ^ -Civil-120
+ ^ -Electronics and Telecommunication -60
+ ^ -Environment - 60
+ ^ -Biotech - 60
+
++ [*] (second year|third year|final year) [*] intake [*]
+- -Mechanical - 120\n
+^ -Production - 60\n
+^ -Computer science and engineering - 60\n
+^ -Information Security - 60\n
+^ -electronics - 60\n
+^ -Civil-120\n
+^ -Electronics and Telecommunication -60\n
+^ -Environment - 60\n
+^ -Biotech - 60\n
+
++ ([*] branches [*] [college] [*] | [*] [college] [*] branches [*])
+- there are total 7 branches in our college\n1.Mechanical\n2.Production\n3.Civil\n4.CSE\n5.IT\n6.Electronics\n7.Biotech
+
++ ([*] fee [structure] [*] first year [*] | [*] first year [*] fee [structure] [*])
+- for first year fee structure is 1) for open category - 83000 2)for OBC - 45000 3) for sc/st/nt/vjnt - 3000 \nplease download this pdf for detailed info "http://kitcoek.in/wp-content/uploads/2017/07/Fee-Structure-17-18-vjp-ACC.pdf"
+
++ ([*] fee [structure] [*] second year [*] | [*] second year [*] fee [structure] [*])
+- For Direct Second Year admission fee structure please refer this pdf : "http://kitcoek.in/wp-content/uploads/2017/08/DSE_2017-18_Fee_Structure.pdf"
+
++ [*] fee [structure] [*] (third year|fourth year) [*]
+- Sorry but there is no direct third/final year admission if youre a student contact office for fee structure.
+
++ [*] cut off [*] information technology [*]
+- The cut off for IT was 1)open - 83.65% 2)obc - 79.23% 3)sc/st/nt/vjnt - 68.92%
+
++ [*] cut off [*] computer science and engineering [*]
+- The cut off for Computer science was 1)open - 83.65% 2)obc - 79.23% 3)sc/st/nt/vjnt - 68.92%
+
++ [*] cut off [*] mechanical engineering [*]
+- The cut off for Mechanical was 1)open - 83.65% 2)obc - 79.23% 3)sc/st/nt/vjnt - 68.92%
+
++ [*] cut off [*] civil engineering [*]
+- The cut off for Civil was 1)open - 83.65% 2)obc - 79.23% 3)sc/st/nt/vjnt - 68.92%
+
++ [*] cut off [*] production engineering [*]
+- The cut off for production was 1)open - 83.65% 2)obc - 79.23% 3)sc/st/nt/vjnt - 68.92%
+
++ [*] cut off [*] environment engineering [*]
+- The cut off for Environment was 1)open - 83.65% 2)obc - 79.23% 3)sc/st/nt/vjnt - 68.92%
+
++ [*] cut off [*] biotechnology engineering[*]
+- The cut off for Biotechnology was 1)open - 83.65% 2)obc - 79.23% 3)sc/st/nt/vjnt - 68.92%
+
++ [*] cut off [*] electronics engineering [*]
+- The cut off for Electronics was 1)open - 83.65% 2)obc - 79.23% 3)sc/st/nt/vjnt - 68.92%
+
++ [*] documents [*] admission [*]
+- Documents may vary candidate to candidate. But the prime documents will be 1) 10th,12th certificates 2)JEE/CET marksheet 3)Allotment letter 4)Leaving certificate
+
++ [*] scholarships [*]
+- please refer this link for detailed info : "http://kitcoek.in/admissions/faq/"

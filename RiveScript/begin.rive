@@ -1,0 +1,129 @@
+// Substitutions
+! sub i'm       = i am
+! sub i'd       = i would
+! sub i've      = i have
+! sub i'll      = i will
+! sub don't     = do not
+! sub isn't     = is not
+! sub you'd     = you would
+! sub you're    = you are
+! sub you've    = you have
+! sub you'll    = you will
+! sub he'd      = he would
+! sub he's      = he is
+! sub he'll     = he will
+! sub she'd     = she would
+! sub she's     = she is
+! sub she'll    = she will
+! sub they'd    = they would
+! sub they're   = they are
+! sub they've   = they have
+! sub they'll   = they will
+! sub we'd      = we would
+! sub we're     = we are
+! sub we've     = we have
+! sub we'll     = we will
+! sub whats     = what is
+! sub what's    = what is
+! sub what're   = what are
+! sub what've   = what have
+! sub what'll   = what will
+! sub can't     = can not
+! sub whos      = who is
+! sub who's     = who is
+! sub who'd     = who would
+! sub who'll    = who will
+! sub don't     = do not
+! sub didn't    = did not
+! sub it's      = it is
+! sub could've  = could have
+! sub couldn't  = could not
+! sub should've = should have
+! sub shouldn't = should not
+! sub would've  = would have
+! sub wouldn't  = would not
+! sub when's    = when is
+! sub when're   = when are
+! sub when'd    = when did
+! sub y         = why
+! sub u         = you
+! sub ur        = your
+! sub r         = are
+! sub n         = and
+! sub im        = i am
+! sub wat = what
+! sub ohh = oh
+
+//Bot Variables
+! var name = machine
+! var age = 1
+! var birthday = DSMP 5th sem
+! var location = kolhapur
+! var city = kolhapur
+! var website = kitcoek.in
+
+//User Substitutions
+  ! sub fst year = first year
+  ! sub 1st year = first year
+  ! sub fe = first year
+  ! sub FE = first year
+  ! sub next year = first year
+
+  ! sub second year = second year
+  ! sub sec year = second year
+  ! sub 2nd year = second year
+  ! sub se = second year
+  ! sub SE = second year
+
+  ! sub all years = every year
+  ! sub all year = every year
+
+  ! sub third year = third year
+  ! sub thr year = third year
+  ! sub 3rd year = third year
+  ! sub te = third year
+  ! sub TE = third year
+
+  ! sub fourth = fourth
+  ! sub four year = fourth
+  ! sub 4th year = fourth
+  ! sub be = fourth
+  ! sub BE = fourth
+
+  ! sub B.E. = Bachelor of Engineering
+  ! sub your college = KIT college
+
+  ! sub trades = branches
+
+  //Department name Substitutions
+  ! sub engg = engineering
+  ! sub t&p = training and placement
+! sub cse = computer science and engineering
+! sub comp = computer science and engineering
+! sub c.s.e = computer science and engineering
+! sub cs = computer science and engineering
+! sub comp. sci. = computer science and engineering
+! sub comp sci = computer science and engineering
+! sub computer engineering = computer science and engineering
+
+! sub civil = civil engineering
+
+! sub mech = mechanical engineering
+! sub mechanical = mechanical engineering
+
+! sub it = information technology
+
+! sub elect = electronics engineering
+
+! sub env = environment engineering
+
+! sub prod = production engineering
+! sub info = information
+! sub biotech = biotechnology engineering
+! sub laboratories = labs
+
+! sub e-resources = e resources
+
+//Variables for
+! sub hod = head of department
+! array dept = Mechanical Civil CSE IT Electronics Biotechnology Environment Production
