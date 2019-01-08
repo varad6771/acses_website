@@ -4,7 +4,7 @@ var flag = false;
 var Quest , socket;
 
 var audio = new Audio();
-audio.src = "sound/notification.mp3";
+//audio.src = "sound/notification.mp3";
 
 function myFunction() {
   var x = document.getElementsByClassName("Application-Box");
@@ -18,7 +18,8 @@ function myFunction() {
 }
 
 function createBot() {
-  socket = io.connect('https://kitcoek-bot.herokuapp.com/');
+
+  socket = io.connect('https://acses.herokuapp.com/');
   document.body.style.zoom="75%";
 }
 
