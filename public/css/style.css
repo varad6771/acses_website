@@ -393,7 +393,14 @@ p a:hover {
 #footer div ul li #facebook {
 	background-position: 0 -44px;
 }
+#footer div ul li #instagram {
+	background-position: 0 -44px;
+}
+
 #footer div ul li #facebook:hover {
+	background-position: -44px -44px;
+}
+#footer div ul li #instagram:hover {
 	background-position: -44px -44px;
 }
 #footer div ul li #googleplus {
@@ -424,7 +431,10 @@ p a:hover {
 
 
 
-
+.enlarge:hover {
+	transform:scale(2,2);
+	transform-origin:0 0;
+}
 
 .Application-Box {
 
